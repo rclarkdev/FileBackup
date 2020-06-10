@@ -1,0 +1,9 @@
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp3.1\LifeBackup.Core.deps.json
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp3.1\LifeBackup.Core.dll
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp3.1\LifeBackup.Core.pdb
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp3.1\LifeBackup.Core.AssemblyInfoInputs.cache
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp3.1\LifeBackup.Core.AssemblyInfo.cs
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp3.1\LifeBackup.Core.dll
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp3.1\LifeBackup.Core.pdb
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp3.1\LifeBackup.Core.csproj.CoreCompileInputs.cache
+C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp3.1\LifeBackup.Core.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCZXkPo3+/9ipi8aOxnM1CV5IkZpcNftTlJXmgej/0Ft6E8dO19M5lxHQjn70hI184T7MxcX7BU7/nvtl51onQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A7536141\\.nuget\\packages\\awssdk.core\\3.3.106.25\\awssdk.core.3.3.106.25.nupkg.sha512",
+    "C:\\Users\\A7536141\\.nuget\\packages\\awssdk.s3\\3.3.110.71\\awssdk.s3.3.3.110.71.nupkg.sha512",
+    "C:\\Users\\A7536141\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.4\\microsoft.aspnetcore.http.features.3.1.4.nupkg.sha512",
+    "C:\\Users\\A7536141\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\A7536141\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\A7536141\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

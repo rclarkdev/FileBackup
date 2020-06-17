@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qXeTdwhb7l8tAUem0bgTBmSi81KhuAz7gg07UgsYoNLCb09IQEK+XkBCBPNtUwFsFPhY4sJoDdoQF/FN9WwmMg==",
+  "dgSpecHash": "CNL+dgYR2gDcFMGB5H7Jz14Um8WxWabS73Mc1WzbnzKsOIp6YScji5IbdHPTXTv9rSk/SWtUxhUJ0xZOQs0XgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj",
+  "projectFilePath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A7536141\\.nuget\\packages\\awssdk.core\\3.3.106.25\\awssdk.core.3.3.106.25.nupkg.sha512",
     "C:\\Users\\A7536141\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.101\\awssdk.extensions.netcore.setup.3.3.101.nupkg.sha512",

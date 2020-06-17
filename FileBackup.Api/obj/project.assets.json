@@ -6301,13 +6301,13 @@
     },
     "FileBackup.Core/1.0.0": {
       "type": "project",
-      "path": "../LifeBackup.Core/FileBackup.Core.csproj",
-      "msbuildProject": "../LifeBackup.Core/FileBackup.Core.csproj"
+      "path": "../FileBackup.Core/FileBackup.Core.csproj",
+      "msbuildProject": "../FileBackup.Core/FileBackup.Core.csproj"
     },
     "FileBackup.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../LifeBackup.Infrastructure/FileBackup.Infrastructure.csproj",
-      "msbuildProject": "../LifeBackup.Infrastructure/FileBackup.Infrastructure.csproj"
+      "path": "../FileBackup.Infrastructure/FileBackup.Infrastructure.csproj",
+      "msbuildProject": "../FileBackup.Infrastructure/FileBackup.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6327,11 +6327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj",
+      "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj",
       "projectName": "FileBackup.Api",
-      "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj",
+      "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj",
       "packagesPath": "C:\\Users\\A7536141\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\obj\\",
+      "outputPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6354,11 +6354,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj": {
-              "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj"
+            "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj": {
+              "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj"
             },
-            "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj"
+            "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj"
             }
           }
         }

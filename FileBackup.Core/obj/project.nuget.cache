@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F4VVMlJcu1iIPSCYvygJLyYPrmqnxcc5undalo5RDR3LfFtpcgu5TQ3mLTbontUjeG8MrkLIfDM0NmcWc2edIg==",
+  "dgSpecHash": "VjR5sn60SoaWTKwzwkGGgfEizn5ChGklCB5H8Cnu8JxyY0EdrpZbHw9H1QJthB0Sq7wGRxtXnvkU/nIYeWngYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj",
+  "projectFilePath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A7536141\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.4\\microsoft.aspnetcore.http.features.3.1.4.nupkg.sha512",
     "C:\\Users\\A7536141\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj": {}
+    "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj": {
+    "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj",
+        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj",
         "projectName": "FileBackup.Api",
-        "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\FileBackup.Api.csproj",
+        "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\FileBackup.Api.csproj",
         "packagesPath": "C:\\Users\\A7536141\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Api\\obj\\",
+        "outputPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -34,11 +34,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj": {
-                "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj"
+              "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj": {
+                "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj"
               },
-              "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj"
+              "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj": {
+    "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj",
+        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj",
         "projectName": "FileBackup.Core",
-        "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj",
+        "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj",
         "packagesPath": "C:\\Users\\A7536141\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\obj\\",
+        "outputPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj": {
+    "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj",
         "projectName": "FileBackup.Infrastructure",
-        "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\FileBackup.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\A7536141\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -186,8 +186,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj": {
-                "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj"
+              "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj": {
+                "projectPath": "C:\\Users\\A7536141\\source\\repos\\file-backup\\FileBackup.Core\\FileBackup.Core.csproj"
               }
             }
           }

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace LifeBackup.Core.Communication.Files
+namespace FileBackup.Core.Communication.Files
 {
     public class AddJsonObjectRequest
     {

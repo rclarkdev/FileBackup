@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {}
+    "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\LifeBackup.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
+    "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj",
+        "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\LifeBackup.Core.csproj",
         "projectName": "LifeBackup.Core",
-        "projectPath": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj",
+        "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\LifeBackup.Core.csproj",
         "packagesPath": "C:\\Users\\A7536141\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\obj\\",
+        "outputPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

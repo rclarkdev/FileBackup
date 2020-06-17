@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LifeBackup.Core.Communication.Files
+namespace FileBackup.Core.Communication.Files
 {
     public class AddFileResponse
     {

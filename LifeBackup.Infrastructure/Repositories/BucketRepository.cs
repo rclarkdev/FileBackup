@@ -6,10 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Amazon.S3;
 using Amazon.S3.Model;
-using LifeBackup.Core.Communication.Bucket;
-using LifeBackup.Core.Communication.Interfaces;
+using FileBackup.Core.Communication.Bucket;
+using FileBackup.Core.Communication.Interfaces;
 
-namespace LifeBackup.Infrastructure.Repositories
+namespace FileBackup.Infrastructure.Repositories
 {
     public class BucketRepository : IBucketRepository
     {

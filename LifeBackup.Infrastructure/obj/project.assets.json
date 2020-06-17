@@ -63,7 +63,7 @@
           "lib/netcoreapp3.0/System.IO.Pipelines.dll": {}
         }
       },
-      "LifeBackup.Core/1.0.0": {
+      "FileBackup.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -71,10 +71,10 @@
           "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
-          "bin/placeholder/LifeBackup.Core.dll": {}
+          "bin/placeholder/FileBackup.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LifeBackup.Core.dll": {}
+          "bin/placeholder/FileBackup.Core.dll": {}
         }
       }
     }
@@ -257,16 +257,16 @@
         "version.txt"
       ]
     },
-    "LifeBackup.Core/1.0.0": {
+    "FileBackup.Core/1.0.0": {
       "type": "project",
-      "path": "../LifeBackup.Core/LifeBackup.Core.csproj",
-      "msbuildProject": "../LifeBackup.Core/LifeBackup.Core.csproj"
+      "path": "../LifeBackup.Core/FileBackup.Core.csproj",
+      "msbuildProject": "../LifeBackup.Core/FileBackup.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AWSSDK.s3 >= 3.3.110.71",
-      "LifeBackup.Core >= 1.0.0",
+      "FileBackup.Core >= 1.0.0",
       "Microsoft.AspNetCore.Http.Features >= 3.1.4"
     ]
   },
@@ -278,11 +278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
-      "projectName": "LifeBackup.Infrastructure",
-      "projectPath": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj",
+      "projectName": "FileBackup.Infrastructure",
+      "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\FileBackup.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\A7536141\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -305,8 +305,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
-              "projectPath": "C:\\Users\\A7536141\\source\\repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj"
+            "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj": {
+              "projectPath": "C:\\Users\\A7536141\\source\\repos\\life-backup\\LifeBackup.Core\\FileBackup.Core.csproj"
             }
           }
         }

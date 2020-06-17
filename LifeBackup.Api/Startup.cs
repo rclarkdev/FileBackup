@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Amazon.S3;
-using LifeBackup.Core.Communication.Interfaces;
-using LifeBackup.Infrastructure.Repositories;
+using FileBackup.Core.Communication.Interfaces;
+using FileBackup.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
@@ -14,7 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
 
-namespace LifeBackup.Api
+namespace FileBackup.Api
 {
     public class Startup
     {

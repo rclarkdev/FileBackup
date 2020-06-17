@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using LifeBackup.Core.Communication.Bucket;
-using LifeBackup.Core.Communication.Interfaces;
+using FileBackup.Core.Communication.Bucket;
+using FileBackup.Core.Communication.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 
-namespace LifeBackup.Api.Controllers
+namespace FileBackup.Api.Controllers
 {
     [Route("api/bucket")]
     [ApiController]

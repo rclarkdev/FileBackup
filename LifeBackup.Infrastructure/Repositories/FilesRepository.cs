@@ -2,8 +2,8 @@
 using Amazon.S3.Model;
 using Amazon.S3.Model.Internal.MarshallTransformations;
 using Amazon.S3.Transfer;
-using LifeBackup.Core.Communication.Files;
-using LifeBackup.Core.Communication.Interfaces;
+using FileBackup.Core.Communication.Files;
+using FileBackup.Core.Communication.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using System;
@@ -13,7 +13,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LifeBackup.Infrastructure.Repositories
+namespace FileBackup.Infrastructure.Repositories
 {
     public class FilesRepository : IFilesRepository
     {

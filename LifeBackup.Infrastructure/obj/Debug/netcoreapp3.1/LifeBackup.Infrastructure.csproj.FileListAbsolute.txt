@@ -10,3 +10,15 @@ C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\ne
 C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.dll
 C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.pdb
 C:\Users\A7536141\source\repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.1\LifeBackup.Infrastructure.deps.json
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.1\LifeBackup.Infrastructure.dll
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.1\LifeBackup.Infrastructure.pdb
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.1\LifeBackup.Core.dll
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.1\LifeBackup.Core.pdb
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.csprojAssemblyReference.cache
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.AssemblyInfo.cs
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.csproj.CopyComplete
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.dll
+C:\Users\A7536141\source\repos\life-backup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.1\LifeBackup.Infrastructure.pdb

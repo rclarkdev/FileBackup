@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using LifeBackup.Core.Communication.Files;
-using LifeBackup.Core.Communication.Interfaces;
+using FileBackup.Core.Communication.Files;
+using FileBackup.Core.Communication.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LifeBackup.Api.Controllers
+namespace FileBackup.Api.Controllers
 {
     [Route("api/files")]
     [ApiController]
